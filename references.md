@@ -1,1 +1,4 @@
-This is a reference file that should have conflicts with the same file in main ...
+
+# References
+
+* octocat 1 😈
